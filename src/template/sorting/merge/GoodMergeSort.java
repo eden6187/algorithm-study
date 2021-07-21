@@ -34,7 +34,7 @@ public class GoodMergeSort {
             int leftValue = src[leftPtr];
             int rightValue = src[rightPtr];
 
-            if(leftValue <= rightValue) {
+            if(leftValue <= rightValue) { // 이 부분에서 등호가 빠진다면, 정렬은 되지만, in-place sort 가 아니게 된다.
                 tmp[tmpPtr] = leftValue;
                 leftPtr++;
             }
