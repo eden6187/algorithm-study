@@ -1,6 +1,4 @@
-package baekjoon.silver4.boj1431;
-
-import programmers.level2.주식가격.Solution;
+package baekjoon.boj1431;
 
 import java.io.BufferedReader;
 import java.io.IOException;
