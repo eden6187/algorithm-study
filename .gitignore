@@ -7,8 +7,8 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-## private
-/src/programmers/dev_coding_test/
+## priv
+/src/priv
 
 ## for mac
 .DS_Store
