@@ -1,7 +1,5 @@
 package programmers.level2.주식가격;
 
-import jdk.nashorn.internal.runtime.StoredScript;
-
 import java.util.Stack;
 
 public class Solution {
