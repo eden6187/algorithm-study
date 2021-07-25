@@ -4,11 +4,14 @@
 *.iml
 *.ipr
 out/
-!**/src/mainWrong/**/out/
+!**/src/main/**/out/
 !**/src/test/**/out/
 
-## priv
-/src/priv
+## my-private
+/src/my-private
+
+#configuration-file
+*.yml
 
 ## for mac
 .DS_Store
