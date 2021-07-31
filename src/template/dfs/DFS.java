@@ -1,4 +1,4 @@
-package template;
+package template.dfs;
 
 public class DFS {
 }
