@@ -24,8 +24,12 @@ def find_problem_sources(config):
 # 문제 분류 별로 참조하기 위한 index.md파일을 만듭니다.
 def make_index(problem_categories):
     with open('../index.md', 'w') as f:
+        f.write('# Categories\n')
+        f.write('|Index|Category|\n')
+        f.write('|---|---|\n')
+
         # 2. 모든 문제 카테고리에 대하여 index.md에 링크를 걸어주어야 한다.
-        index_form = '{}. [**{}**](./links/{}.md)'
+        index_form = '|{}|[**{}**](./links/{}.md)|'
 
         index = 1
         for k in problem_categories:
@@ -117,7 +121,7 @@ def write_down_classified_problems_into_md(classified_problems):
         file_path = '../links/' + category + '.md'
         with open(file_path, 'w') as md:
 
-            md.write('#{}\n'.format(category))
+            md.write('# {}\n'.format(category))
             md.write('|Index|Link|Description|Blog Link|\n')
             md.write('|---|---|---|---|\n')
 

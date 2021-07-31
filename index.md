@@ -1,13 +1,16 @@
-1. [**hash**](./links/hash.md)
-2. [**stack**](./links/stack.md)
-3. [**queue**](./links/queue.md)
-4. [**BFS**](./links/BFS.md)
-5. [**DFS**](./links/DFS.md)
-6. [**back-tracking**](./links/back-tracking.md)
-7. [**DP**](./links/DP.md)
-8. [**sorting**](./links/sorting.md)
-9. [**binary-search**](./links/binary-search.md)
-10. [**heap**](./links/heap.md)
-11. [**set**](./links/set.md)
-12. [**bitwise-operation**](./links/bitwise-operation.md)
-13. [**simulation**](./links/simulation.md)
+# Categories
+|Index|Category|
+|---|---|
+|1|[**hash**](./links/hash.md)|
+|2|[**stack**](./links/stack.md)|
+|3|[**queue**](./links/queue.md)|
+|4|[**BFS**](./links/BFS.md)|
+|5|[**DFS**](./links/DFS.md)|
+|6|[**back-tracking**](./links/back-tracking.md)|
+|7|[**DP**](./links/DP.md)|
+|8|[**sorting**](./links/sorting.md)|
+|9|[**binary-search**](./links/binary-search.md)|
+|10|[**heap**](./links/heap.md)|
+|11|[**set**](./links/set.md)|
+|12|[**bitwise-operation**](./links/bitwise-operation.md)|
+|13|[**simulation**](./links/simulation.md)|
