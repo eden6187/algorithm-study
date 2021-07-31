@@ -7,9 +7,6 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-## my-private
-/src/my-private
-
 #configuration-file
 ./for-update/venv-for-script
 
