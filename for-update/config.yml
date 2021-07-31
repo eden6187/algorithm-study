@@ -1,0 +1,19 @@
+problem-sources:
+  - baekjoon
+  - programmers
+  - template
+
+problem-categories:
+  - hash
+  - stack
+  - queue
+  - BFS
+  - DFS
+  - back-tracking
+  - DP
+  - sorting
+  - binary-search
+  - heap
+  - set
+  - bitwise-operation
+  - simulation

@@ -11,7 +11,7 @@ out/
 /src/my-private
 
 #configuration-file
-*.yml
+./for-update/venv-for-script
 
 ## for mac
 .DS_Store
