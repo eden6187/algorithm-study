@@ -117,7 +117,7 @@ def write_down_classified_problems_into_md(classified_problems):
         file_path = '../links/' + category + '.md'
         with open(file_path, 'w') as md:
 
-            md.write('#{}\n'.format(category))
+            md.write('# {}\n'.format(category))
             md.write('|Index|Link|Description|Blog Link|\n')
             md.write('|---|---|---|---|\n')
 

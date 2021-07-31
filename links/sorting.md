@@ -1,4 +1,4 @@
-#sorting
+# sorting
 |Index|Link|Description|Blog Link|
 |---|---|---|---|
 |1|[**boj7795**](../src/baekjoon/boj7795)|이분탐색으로 풀 수 있으나, 정렬로 더 쉽게 해결 할 수 있었던 문제|-|
@@ -10,3 +10,4 @@
 |7|[**베스트앨범**](../src/programmers/베스트앨범)|heap,hash,sorting등 복합적인 개념이 사용되는 문제|-|
 |8|[**가장큰수_x**](../src/programmers/가장큰수_x)|답을 보고 풀어서, 아직 완전히 이해 했다고 보기는 힘든 문제|-|
 |9|[**k번째수**](../src/programmers/k번째수)|기본적인 정렬 문제|-|
+|10|[**sorting**](../src/template/sorting)|정렬과 관련된 코드 템플릿들|-|
