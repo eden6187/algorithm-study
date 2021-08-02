@@ -1,6 +1,5 @@
 package baekjoon.boj11559;
 
-import javax.swing.plaf.IconUIResource;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -40,7 +39,6 @@ public class Main {
                 }
             }
             if(corToDelete.isEmpty()) break;
-            clearVisited();
             delete(corToDelete);
             down();
             ys++;
