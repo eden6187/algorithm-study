@@ -17,3 +17,5 @@ problem-categories:
   - set
   - bitwise-operation
   - simulation
+  - greedy
+  - must-retry
