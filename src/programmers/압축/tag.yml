@@ -1,0 +1,5 @@
+category :
+  - simulation
+
+description :
+  '로직을 한번에 묶어서 구현하기 어려울 땐 메소드로 적절히 쪼개는 것이 중요하다는 것을 알게 해준 문제'

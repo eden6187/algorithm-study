@@ -22,7 +22,7 @@ public class BinarySearch {
 
         while(st < en){
             int mid = (st + en) / 2;
-            if(target > arr[mid]){
+            if(arr[mid] < target){
                 st = mid + 1;
             }else{
                 en = mid;
@@ -40,7 +40,7 @@ public class BinarySearch {
 
         while(st < en){
             int mid = ( st + en ) / 2;
-            if(target >= arr[mid]){
+            if(arr[mid] <= target){
                 // target과 같은 값이 있을 경우 그 값들은 내가 찾아야 할 값이 아니므로
                 // 제외 시켜야 한다.
                 st = mid + 1;
