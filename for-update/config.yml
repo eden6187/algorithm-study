@@ -18,4 +18,5 @@ problem-categories:
   - bitwise-operation
   - simulation
   - greedy
+  - tree
   - must-retry

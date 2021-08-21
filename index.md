@@ -15,4 +15,5 @@
 |12|[**bitwise-operation**](./links/bitwise-operation.md)|
 |13|[**simulation**](./links/simulation.md)|
 |14|[**greedy**](./links/greedy.md)|
-|15|[**must-retry**](./links/must-retry.md)|
+|15|[**tree**](./links/tree.md)|
+|16|[**must-retry**](./links/must-retry.md)|
