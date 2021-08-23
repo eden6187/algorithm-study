@@ -10,4 +10,5 @@
 |7|[**베스트앨범**](../src/programmers/베스트앨범)|heap,hash,sorting등 복합적인 개념이 사용되는 문제|-|
 |8|[**가장큰수_x**](../src/programmers/가장큰수_x)|답을 보고 풀어서, 아직 완전히 이해 했다고 보기는 힘든 문제|-|
 |9|[**k번째수**](../src/programmers/k번째수)|기본적인 정렬 문제|-|
-|10|[**sorting**](../src/template/sorting)|정렬과 관련된 코드 템플릿들|-|
+|10|[**파일명_정렬**](../src/programmers/파일명_정렬)|기본적인 sorting 문제|-|
+|11|[**sorting**](../src/template/sorting)|정렬과 관련된 코드 템플릿들|-|
